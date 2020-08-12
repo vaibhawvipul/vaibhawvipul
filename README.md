@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">Hi 👋, I'm Vipul Vaibhaw</h1>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=vaibhawvipul alt=vaibhawvipul/> </p>
+
+<p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=vaibhawvipul&show_icons=true alt=vaibhawvipul /> </p>
+
+<p align="center">
+<a href=https://twitter.com/vaibhaw_vipul target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="vaibhaw_vipul" height="20" width="20" /></a>
+<a href=https://linkedin.com/in/vipulvaibhaw target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="vipulvaibhaw" height="20" width="20" /></a>
+</p>
