@@ -24,3 +24,14 @@ Here are some ideas to get you started:
 <a href=https://twitter.com/vaibhaw_vipul target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg alt="vaibhaw_vipul" height="20" width="20" /></a>
 <a href=https://linkedin.com/in/vipulvaibhaw target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="vipulvaibhaw" height="20" width="20" /></a>
 </p>
+
+---
+
+🌱 I'm passionate about open source and contributing to projects that make a difference. Currently, I'm interested in contributing to the following repositories:
+
+- [Datafusion-Comet]([link-to-repo-1](https://github.com/apache/datafusion-comet)): Apache DataFusion Comet Spark Accelerator.
+- [Datafusion](https://github.com/apache/datafusion): Apache DataFusion SQL Query Engine.
+
+Feel free to reach out to me if you have any suggestions or opportunities for collaboration! 
+
+I can be found - vaibhaw . vipul [@] gmail [dot] com
