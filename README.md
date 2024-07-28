@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 🌱 I'm passionate about open source and contributing to projects that make a difference. Currently, I'm interested in contributing to the following repositories:
 
 - [Datafusion-Comet](https://github.com/apache/datafusion-comet): Apache DataFusion Comet Spark Accelerator. I am actively contributing to this repo right now.
+- [raft-rs](https://github.com/spacewalkhq/raft-rs): Production ready, Optimized, Scalable and Customizable Raft implementation with zero-copy and io_uring support.
 - [Datafusion](https://github.com/apache/datafusion): Apache DataFusion SQL Query Engine.
 
 Feel free to reach out to me if you have any suggestions or opportunities for collaboration! 
