@@ -32,6 +32,10 @@ Here are some ideas to get you started:
 - [Datafusion-Comet](https://github.com/apache/datafusion-comet): Apache DataFusion Comet Spark Accelerator. I am actively contributing to this repo right now.
 - [raft-rs](https://github.com/spacewalkhq/raft-rs): An understandable, fast, customizable and scalable Raft implementation with zero-copy and io_uring support.
 
+minor contributions - 
+- [Apache Iceberg-rust](https://github.com/apache/iceberg-rust/pulls?q=is%3Apr+author%3Avaibhawvipul+is%3Aclosed): Rust implementation of Apache Iceberg.
+- [ParadeDB](https://github.com/paradedb/paradedb/pulls/vaibhawvipul): Postgres for Search and Analytics
+
 Feel free to reach out to me if you have any suggestions or opportunities for collaboration! 
 
 I can be found - vaibhaw . vipul [@] gmail [dot] com
