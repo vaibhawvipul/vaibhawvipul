@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 🌱 I'm passionate about open source and contributing to projects that make a difference. Currently, I'm actively contributing to the following repositories:
 
 - [Datafusion-Comet](https://github.com/apache/datafusion-comet): Apache DataFusion Comet Spark Accelerator. I am actively contributing to this repo right now.
-- [raft-rs](https://github.com/spacewalkhq/raft-rs) (maintainer): An understandable, fast, customizable and scalable Raft implementation with zero-copy and io_uring support.
+- [raft-rs](https://github.com/spacewalkhq/raft-rs) (maintainer): An understandable, fast, customizable and scalable async-await Raft implementation with zero-copy.
 - [ParadeDB](https://github.com/paradedb/paradedb/pulls/vaibhawvipul): Postgres for Search and Analytics
 
 minor contributions - 
