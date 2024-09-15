@@ -27,14 +27,19 @@ Here are some ideas to get you started:
 
 ---
 
+I am a math grad. I am passionate about systems engineering in general. I have 7 years of experience in the field of data. I have worked as data scientist, data engineer and now developing big data tools.
+
+These days I am learning - Operating systems, concurrent programming, distributed systems and parallel programming. 
+
 🌱 I'm passionate about open source and contributing to projects that make a difference. Currently, I'm actively contributing to the following repositories:
 
 - [Datafusion-Comet](https://github.com/apache/datafusion-comet): Apache DataFusion Comet Spark Accelerator. I am actively contributing to this repo right now.
 - [raft-rs](https://github.com/spacewalkhq/raft-rs) (maintainer): An understandable, fast, customizable and scalable async-await Raft implementation with zero-copy.
-- [ParadeDB](https://github.com/paradedb/paradedb/pulls/vaibhawvipul): Postgres for Search and Analytics
+
 
 minor contributions - 
 - [Apache Iceberg-rust](https://github.com/apache/iceberg-rust/pulls?q=is%3Apr+author%3Avaibhawvipul+is%3Aclosed): Rust implementation of Apache Iceberg.
+- [ParadeDB](https://github.com/paradedb/paradedb/pulls/vaibhawvipul): Postgres for Search and Analytics
 
 Feel free to reach out to me if you have any suggestions or opportunities for collaboration! 
 
