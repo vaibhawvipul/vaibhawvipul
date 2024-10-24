@@ -39,7 +39,8 @@ These days I am learning - Operating systems, concurrent programming, distribute
 
 minor contributions - 
 - [Apache Iceberg-rust](https://github.com/apache/iceberg-rust/pulls?q=is%3Apr+author%3Avaibhawvipul+is%3Aclosed): Rust implementation of Apache Iceberg.
-- [ParadeDB](https://github.com/paradedb/paradedb/pulls/vaibhawvipul): Postgres for Search and Analytics
+- [ParadeDB](https://github.com/paradedb/paradedb/pulls/vaibhawvipul): Postgres for Search and Analytics written in Rust.
+- [Arroyo](https://github.com/ArroyoSystems/arroyo/pull/765): Distributed stream processing engine in Rust.
 
 I also maintain a blog where I write about tech, notes on research papers I read, and other long form writing - [Check out my blog](https://vaibhawvipul.github.io/)
 
