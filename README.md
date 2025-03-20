@@ -27,9 +27,11 @@ Here are some ideas to get you started:
 
 ---
 
-I am a math grad. I am passionate about systems engineering in general. I have around 7 years of experience in the field of data. I have worked as data scientist, data engineer and now developing big data tools.
+I am a math grad. I am passionate about systems engineering in general. I have around 7 years of experience in the field of data + systems. I have worked as data scientist, data engineer, database devloper and now developing something in the area of math + cs.
 
-These days I am learning - Operating systems, concurrent programming, distributed systems and parallel programming. 
+These days I am into - Design of Programming Languages and Compilers.
+
+Previously I was learning - Operating systems, concurrent programming, distributed systems and parallel programming. 
 
 🌱 I'm passionate about open source and contributing to projects that make a difference. Currently, I'm actively contributing to the following repositories:
 
