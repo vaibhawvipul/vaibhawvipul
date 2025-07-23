@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 I am a math grad. I am passionate about systems engineering in general and leading/building/scaling engineering teams. I have around 7 years of experience in the field of data + systems. I have worked as data scientist, data engineer, database devloper and now developing something in the area of math + systems.
 
-These days I am into - Design of Programming Languages and Compilers.
+These days I am into - Product Design and Engineering, Design of Programming Languages and Compilers.
 
 Previously I was learning - Operating systems, concurrent programming, distributed systems and parallel programming. 
 
