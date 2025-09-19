@@ -37,6 +37,7 @@ Previously I was learning - Operating systems, concurrent programming, distribut
 
 - [Datafusion-Comet](https://github.com/apache/datafusion-comet): Apache DataFusion Comet Spark Accelerator. I am actively contributing to this repo right now.
 - [raft-rs](https://github.com/spacewalkhq/raft-rs) (maintainer): An understandable, fast, customizable and scalable async-await Raft implementation with zero-copy.
+- [taper](https://github.com/vaibhawvipul/taper) (maintainer): An autograd engine with dynamic computational graph and neural network library. Uses optimized BLAS for matmul and SIMD for element-wise operations. Zero-copy tensors.
 
 
 minor contributions - 
